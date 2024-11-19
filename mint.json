@@ -7,11 +7,11 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#EF4444",
     "light": "#07C983",
-    "dark": "#0D9373",
+    "dark": "#EF4444",
     "anchors": {
-      "from": "#0D9373",
+      "from": "#EF4444",
       "to": "#07C983"
     }
   },
